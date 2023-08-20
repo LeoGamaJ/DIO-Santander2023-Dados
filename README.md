@@ -1,8 +1,3 @@
-# DIO - Resumo Git e GitHub
+# DIO - Ciência de Dados - Santander 2023
 
-Repositório de resumos referente ao curso Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
-
-## Documentação
-[Documentação Git](https://git-scm.com/docs/git/pt_BR)
-
-[Documentação GitHub](https://docs.github.com/pt)
+Repositório de apoio para o BootCamp do Santander 2023 Ciência de dados através da plataforma [Digital Innovation One](https://www.dio.me/).
